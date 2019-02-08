@@ -2,7 +2,7 @@
 Script to excute all of the Qlik Nprinting tasks using Nprinting API
 
 # ReamMe
-- The windows user account used to run this script needs to be the administor of Nprinting Server.
+- The windows user account used to run this script needs to be the administrator of Nprinting Server.
 - The script will execute ALL of the Nprinting tasks, please use it with caution.
 - You may need to change FQDN in the script to fit your environment.
 
